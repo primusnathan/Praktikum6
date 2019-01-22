@@ -6,6 +6,6 @@ Gallery ![alt text](https://github.com/primusnathan/Praktikum6/blob/master/galle
 
 Contact ![alt text](https://github.com/primusnathan/Praktikum6/blob/master/contact.png)
 
-Event ![alt text](https://github.com/primusnathan/Praktikum/blob/master/event.png)
+Event ![alt text](https://github.com/primusnathan/Praktikum6/blob/master/event.png)
 
 
